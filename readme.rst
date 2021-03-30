@@ -8,6 +8,10 @@
 
 https://inventorymanagementt1.000webhostapp.com/
 
+username: admin@gmail.com
+
+password: 1234
+
 ### Installation
 
 1. Put this repo in htdocs
