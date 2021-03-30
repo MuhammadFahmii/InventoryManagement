@@ -1,6 +1,6 @@
 # Inventory Management With Codeigniter 3
 
-###Build With
+### Build Using
 
 -CodeIgniter 3
   
