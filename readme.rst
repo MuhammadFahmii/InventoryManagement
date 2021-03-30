@@ -3,6 +3,9 @@
 
 -CodeIgniter 3
   
+### Demo
+https://inventorymanagementt1.000webhostapp.com/
+
 ### Installation
 
 1. Put this repo in htdocs
